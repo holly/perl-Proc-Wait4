@@ -1,4 +1,6 @@
 Revision history for Perl extension Proc::Wait4
 
+0.1     Sun Nov  7 14:58:09 JST 2010
+        - add define PERL_NO_GET_CONTEXT
 0.01    Thu Oct 28 01:06:40 JST 2010
         - original version

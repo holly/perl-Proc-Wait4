@@ -3,7 +3,7 @@ package Proc::Wait4;
 use strict;
 use warnings;
 use base qw(Exporter);
-our $VERSION = '0.01';
+our $VERSION = '0.1';
 our(@ISA, @EXPORT_OK, %EXPORT_TAGS);
 
 eval {
@@ -28,7 +28,7 @@ Proc::Wait4 - wait4 interface xs module
 
 =head1 VERSION
 
-0.01
+0.1
 
 =head1 SYNOPSIS
 
